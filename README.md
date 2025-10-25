@@ -10,7 +10,7 @@
 
 ## ⚙️ المكونات المطلوبة
 - Arduino Uno  
-- 2 × LDR Sensors  
+- 4 × LDR Sensors  
 - 4 × مقاومة 10kΩ  
 - Servo Motor  
 - أسلاك توصيل (Jumper Wires)  
